@@ -1,0 +1,27 @@
+.bg-black{
+	background-color: black;
+}
+
+@media(max-width:766px){
+    .services-section .card img,h5{
+        margin-left: 100px;
+    }
+@media(max-width:990px){
+    .contact-section  p{
+       margin-left: 140px;
+    } 
+@media(max-width:991px){
+    .slide-section .carousel-caption h1 {
+        font-size: 20px;
+    } 
+@media(max-width:765px){
+	.about-section p{
+		margin-left: 8px;
+		margin-right: 12px;
+	}
+@media(max-width: 762px){
+	.footer p{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+}
